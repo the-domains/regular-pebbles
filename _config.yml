@@ -6,9 +6,9 @@ color:
   saturation: 0.047089447267353535
   rhythmicContrast: 0.15434952988289297
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: regular pebbles
