@@ -1,0 +1,14 @@
+layout_spectrum: 0.014129884308204055
+typography_spectrum: 0.9024436511099339
+color:
+  brandStrength: 0.912391000194475
+  lightness: 0.5323934622574598
+  saturation: 0.047089447267353535
+  rhythmicContrast: 0.15434952988289297
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: regular pebbles
